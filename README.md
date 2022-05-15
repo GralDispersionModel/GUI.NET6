@@ -1,9 +1,16 @@
-# GRAL Dispersion Model GUI .NET6beta2<br>
-This is the repository for the .NET6 beta version of the graphical user interface. Since the .NETFramework is no longer developed by Microsoft, we expect the following advantages from the migration in the future:
+# GRAL Dispersion Model GUI .NET6RC1<br><br>
+
+## This repository was used for the development of the .NET6 version of the Graphical User Interface and was merged into the original repository in May 2022.
+
+## Further development can be found here: [GUI Repository](https://github.com/GralDispersionModel/GUI)<br><br>
+
+
+This is the repository for the .NET6RC1 version of the graphical user interface. Since the .NETFramework is no longer developed by Microsoft, we expect the following advantages from the migration in the future:
 * High dpi support
 * Performance improvements
 * Publishing of single files including the entire required framework
-* Improvements due to future developments by Microsoft<br>
+* Improvements due to future developments by Microsoft
+* Native Windows-ARM support<br>
 
 The migration from .NETFramework to .NET6 results in significant code adjustments for an application as large as the GUI. Many problems of the migration have been fixed and this version is already being used productively internally, although Version 22.03 is still recommended for unexperienced or new users.<br>
 
